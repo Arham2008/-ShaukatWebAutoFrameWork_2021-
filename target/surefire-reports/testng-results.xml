@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-29T11:32:58 EDT" name="Amazon Automation Suit" finished-at="2021-03-29T11:33:42 EDT" duration-ms="43777">
+    <groups>
+    </groups>
+    <test started-at="2021-03-29T11:32:58 EDT" name="Amazon AutomationFrameWork" finished-at="2021-03-29T11:33:42 EDT" duration-ms="43777">
+      <class name="homepagetest.HomePageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:32:58 EDT" name="setUp" finished-at="2021-03-29T11:33:06 EDT" duration-ms="7146" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.amazon.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="getInit()[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:06 EDT" name="getInit" finished-at="2021-03-29T11:33:06 EDT" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInit -->
+        <test-method signature="testFresh()[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:06 EDT" name="testFresh" finished-at="2021-03-29T11:33:08 EDT" duration-ms="2234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFresh -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:08 EDT" name="tearDown" finished-at="2021-03-29T11:33:08 EDT" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:08 EDT" name="setUp" finished-at="2021-03-29T11:33:13 EDT" duration-ms="5324" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.amazon.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="getInit()[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:13 EDT" name="getInit" finished-at="2021-03-29T11:33:13 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInit -->
+        <test-method signature="testHamburger()[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:13 EDT" name="testHamburger" finished-at="2021-03-29T11:33:21 EDT" duration-ms="7949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHamburger -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:21 EDT" name="tearDown" finished-at="2021-03-29T11:33:22 EDT" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:22 EDT" name="setUp" finished-at="2021-03-29T11:33:26 EDT" duration-ms="4146" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.amazon.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="getInit()[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:26 EDT" name="getInit" finished-at="2021-03-29T11:33:26 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInit -->
+        <test-method signature="testPharmacy()[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:26 EDT" name="testPharmacy" finished-at="2021-03-29T11:33:32 EDT" duration-ms="6477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPharmacy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:32 EDT" name="tearDown" finished-at="2021-03-29T11:33:33 EDT" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:33 EDT" name="setUp" finished-at="2021-03-29T11:33:37 EDT" duration-ms="4689" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.amazon.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="getInit()[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:37 EDT" name="getInit" finished-at="2021-03-29T11:33:37 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInit -->
+        <test-method signature="testSearchBox()[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:37 EDT" name="testSearchBox" finished-at="2021-03-29T11:33:42 EDT" duration-ms="4691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:homepagetest.HomePageTest@79079097]" started-at="2021-03-29T11:33:42 EDT" name="tearDown" finished-at="2021-03-29T11:33:42 EDT" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- homepagetest.HomePageTest -->
+    </test> <!-- Amazon AutomationFrameWork -->
+  </suite> <!-- Amazon Automation Suit -->
+</testng-results>
