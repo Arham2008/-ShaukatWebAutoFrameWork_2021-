@@ -1,6 +1,7 @@
 package homepagetest;
 
-import base.WebApi;
+
+import common.WebApi;
 import homepage.HomePage;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
